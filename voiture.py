@@ -5,3 +5,4 @@ class Voiture:
         self.annee = annee
         self.marque = marque
         self.kilometrage = kilometrage
+        self.chauffeur = None
